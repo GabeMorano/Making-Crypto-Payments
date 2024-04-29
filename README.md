@@ -16,6 +16,7 @@ This project creates a platform that connects customers with fintech professiona
 
 ## How to Run
 To start the application, run the following in the command line where the file is located:
+
 `streamlit run krypto_jobs.py`
 
 ## Testing
