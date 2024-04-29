@@ -23,7 +23,7 @@ Ensure that transactions are correctly processed by hiring a candidate and check
 ### Screenshots
 ![Screenshot 2024-04-29 at 12 19 23 PM](https://github.com/GabeMorano/Making-Crypto-Payments/assets/160795583/cd85df01-2272-4624-b90b-7a529b8b60f9)
 
-###Above is a screenshot of the validated transactions from the accounts tab on Ganache, 2 applicants were hired
+### Above is a screenshot of the validated transactions from the accounts tab on Ganache, 2 applicants were hired
 
 
 ![Screenshot 2024-04-29 at 12 20 09 PM](https://github.com/GabeMorano/Making-Crypto-Payments/assets/160795583/2ead60ff-81ed-480b-9aa4-f5dbc3894476)
@@ -31,4 +31,4 @@ Ensure that transactions are correctly processed by hiring a candidate and check
 ![Screenshot 2024-04-29 at 12 58 09 PM](https://github.com/GabeMorano/Making-Crypto-Payments/assets/160795583/e43b63ca-86e8-4876-8018-03fcd06319b7)
 
 
-###Above are screenshots of the validated transactions from the transactions tab, showing transfer details for each hire.
+### Above are screenshots of the validated transactions from the transactions tab, showing transfer details for each hire.
